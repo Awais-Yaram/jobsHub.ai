@@ -1,0 +1,27 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  border-radius: 8px;
+  background: #0070f3;
+  color: white;
+  padding: 8px 14px;
+  cursor: pointer;
+}
+
+input, textarea {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
